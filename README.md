@@ -10,7 +10,7 @@ I am looking at whether teams acheive this, and which teams do it better than ot
 
 I am looking at both 'for' and 'against'. The 'for' is the looking at the proportion of supershots that team scored, in comparison to turnovers with attempt from their supershot misses. The 'against' focuses on how a team capitalises on the opposition's supershot mistakes, looking at the proporition of supershots scored against them, to the turnovers with attempt the team gained from a super shot miss. In the 'against' category, a lower proportion is ideal. 
 
-I am using data obtained from Champion Data, accessible for free on the internet with https://mc.championdata.com/super_netball/index.html
+I am using data obtained from Champion Data in 2022, accessible for free on the internet with https://mc.championdata.com/super_netball/index.html
 
 I am specifically looking at turnovers resulting in attempts. This is because It is an easier data set to collect. There is not a lot of specific super-shot period data available and so this was the easiest way to collect data about turnovers quickly. 
 
