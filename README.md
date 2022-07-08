@@ -3,7 +3,8 @@ In the Suncorp Super Netball league(SSN), in the last 5 minutes of every quarter
 Many people discuss the risk/reward aspect of the super shot in terms of shooter accuracy. There is roughly a 50% chance of getting the shot in, and therefore it evens out. However, this is a very simplistic model. If a super shot is missed, three main things can happen: 
 1. The team retains possession and attempts the supershot again
 2. The team retains possession and decides to shoot in the ‘1’ zone
-3. The ball is turned over. \\
+3. The ball is turned over. 
+
 I am looking mainly at scenario 3. Ideally, teams would want to be shooting more supershots than creating turnovers. 
 I am looking at whether teams acheive this, and which teams do it better than others. Because the only way to create an accurate model surrounding the risk/reward factor of supershots is to look at it comparatively. 
 
